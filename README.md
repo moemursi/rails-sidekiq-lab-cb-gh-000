@@ -1,4 +1,4 @@
-# Sidekiq Lab
+# Sidekiq Labd
 
 ## Objectives
 
